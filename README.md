@@ -78,8 +78,8 @@ The R² score indicates that the model explains about **91.7%** of the variation
 ```text
 YallaMotor-Used-Cars-Price-Prediction/
 │
-├── Step1_220230264.ipynb
-├── Step2_220230264.ipynb
+├── Step1_webScraping.ipynb
+├── Step2_.ipynb
 ├── yallamotor_used_cars_raw.csv
 ├── yallamotor_used_cars_cleaned.csv
 └── README.md
